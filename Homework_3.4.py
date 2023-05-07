@@ -1,4 +1,4 @@
-def my_func( x, y):
+def my_func(x, y):
     result = 1
     for a in range(abs(y)):
         result = result * x
