@@ -1,4 +1,4 @@
-def my_func(arg1, arg2, arg3):
+def my_func(arg1, arg2, arg3 ):
     if arg1 <= arg2 and arg1 <= arg3:
         return arg2 + arg3
     elif arg2 <= arg3:

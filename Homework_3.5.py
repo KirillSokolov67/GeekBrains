@@ -5,7 +5,9 @@ def summa(numbers):
         b.append((int(i)))
     return sum(b)
 
+
 s = 0
+
 while 1:
     numbers = input("Введите строку чисел разделенным пробелом: ")
     if numbers.endswith('*'):
